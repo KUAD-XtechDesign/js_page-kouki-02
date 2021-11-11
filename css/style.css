@@ -10,6 +10,20 @@ html,body,#contents,.wrapper,#back{
     
   }
   
+  html {
+      box-sizing: border-box;
+      -webkit-text-size-adjust: 100%;
+      word-break: normal;
+      tab-size: 4;
+
+    }
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+
   li{
     list-style: none;
   }
