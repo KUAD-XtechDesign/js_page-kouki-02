@@ -22,7 +22,16 @@ html,body,#contents,.wrapper,#back{
     margin: 0;
 }
 
-
+#menu{
+    position: fixed;
+    top: 100px;
+    font-size: 100px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1;
+    left: 20px;
+    z-index: 100;
+    cursor: pointer;
+}
 
   li{
     list-style: none;
