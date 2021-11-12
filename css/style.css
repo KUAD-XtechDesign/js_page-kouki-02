@@ -150,3 +150,10 @@ html,body,#contents,.wrapper,#back{
     justify-content: center;
     top: 0;
   }
+
+  #content{
+    position: relative;
+    margin: 100px auto;
+    padding: 20px;
+    max-width: 1000px;
+  }
